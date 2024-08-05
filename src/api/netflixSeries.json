@@ -32,7 +32,7 @@
     {
       "name": "Money Heist",
       "id": "money-heist",
-      "img_url": "http://localhost:5175/images/mh.jpg",
+      "img_url": "../../public/images/mh.jpg",
       "rating": "8.3",
       "description": "A criminal mastermind who goes by 'The Professor' plans the biggest heist in recorded history.",
       "cast": ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño"],
